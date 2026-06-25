@@ -1,0 +1,15 @@
+**ASSIGNMENT 1.10**
+
+04/17/24 12:30PM -
+*Built ui for the game
+*Made basic structs and global variables to be used later
+*Allowed user to move bar
+*Ball moves now
+
+04/18/4:00PM -
+*Ball now moves completely independantly of user input
+*Added ball bouncing "physics"
+*Added score keeper
+*Added GAME OVER and YOU WIN!! screens
+*Gave the ui a frame
+*Adjusted ball speed and number of blocks
